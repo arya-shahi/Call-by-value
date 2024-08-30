@@ -58,10 +58,4 @@ Pass by Reference is a method of argument passing where a function receives a re
 
 
 ## Conclusion
-We learnt about the Operations in Pointers
-
-## Pass by refrence
-
-
-## Conclusion
 In this experiment we learned call by value function
